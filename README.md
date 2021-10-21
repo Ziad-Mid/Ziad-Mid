@@ -24,7 +24,7 @@
 <br />
 
 ### Languages and Tools:
-
+<p align="center">
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
@@ -45,7 +45,7 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
 
-
+</p>
 
 <br />
 <br />
@@ -55,6 +55,7 @@
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ziad's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ziad-Mid&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ziad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Mid&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
