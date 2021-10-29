@@ -22,7 +22,9 @@
 </p>
 
 <br />
+
 ### Check out my portfolio here:
+
 https://ziad-mid.github.io/portfolio/
 
 ### Languages and Tools:
