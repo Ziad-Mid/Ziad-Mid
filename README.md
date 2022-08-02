@@ -1,6 +1,6 @@
 <h2 align="center">Hi y'all 👋 </h2>
 
-<h3 align="center">A software engineering student</h3>
+<h3 align="center">I'm a software engineer</h3>
 
 ### Connect with me:
 <p align="center">
